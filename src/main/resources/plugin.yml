@@ -1,0 +1,3 @@
+name: ProjectileLaunchFix
+version: '${project.version}'
+main: f3f5.projectilelaunchfix.ProjectileLaunchFix
