@@ -1,2 +1,0 @@
-PreventProjectileExploit: true
-MaxBowSquaredVelocity: 15 # Fully pulled bow is ~9-10. 15 is default just to be safe.
